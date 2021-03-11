@@ -4,8 +4,6 @@
 
 I am a software engineer living in 🇳🇱 and studying for my MSc in Applied Computer on Software Architecture.
 
-![Vamo de chimas?](/img/chimas.png)
-
 - 🔭 I’m currently working at bol.com
 - 🌱 I’m currently learning python and kotlin
 - 🤔 I’m looking for help with decision tree (or IA in general)
