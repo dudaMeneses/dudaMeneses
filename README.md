@@ -1,5 +1,4 @@
-<link rel="stylesheet" type="text/css" medial="all" href="style.css" />
-<meta charset="UTF-8">
+<link href="style.css" rel="stylesheet"></link>
 
 ## :man: Welcome to my github! 👋
 
