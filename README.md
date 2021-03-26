@@ -11,6 +11,5 @@ I am a software engineer living in 🇳🇱 and studying for my MSc in Applied C
 - 📫 How to reach me: [Twitter](https://twitter.com/dudaeee) and [LinkedIn](https://www.linkedin.com/in/eduardo-demeneses/)
 
 <div class="mobbey">
-   <img src="./img/mobbey.png" alt="mobbey">
-   <p>⚽ Also co-creator of <a href="https://www.mobbey.com">Mobbey</a> with <a href="https://github.com/jeanbauer">Jean Bauer</a> ⚽</p>
+   <p> ⚽ Also co-creator of <a href="https://www.mobbey.com">Mobbey</a> with <a href="https://github.com/jeanbauer">Jean Bauer</a> ⚽</p>
 </div>
