@@ -2,7 +2,7 @@
 
 ## :man: Welcome to my github! 👋
 
-I am a software engineer living in 🇳🇱 and studying for my MSc in Applied Computer on Software Architecture.
+I am a software engineer living in 🇳🇱 and my girlfriend says that I am an Abra-Cadabra professional certified.
 
 - 🔭 I’m currently working at bol.com
 - 🌱 I’m currently learning python and kotlin
