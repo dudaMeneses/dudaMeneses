@@ -4,9 +4,9 @@
 
 I am a software engineer living in 🇳🇱 and my girlfriend says that I am an Abra-Cadabra professional certified.
 
-- 🔭 I’m currently working at bol.com
-- 🌱 I’m currently learning python and kotlin
-- 🤔 I’m looking for help with decision tree (or IA in general)
+- 🔭 I’m currently working at Backbase
+- 🌱 I’m currently learning kotlin and improving software architecture skills
+- 🤔 I’m looking for help with NLP
 - 💬 Ask me about java, neo4J, code practices... 
 - 📫 How to reach me: [Twitter](https://twitter.com/dudaeee) and [LinkedIn](https://www.linkedin.com/in/eduardo-demeneses/)
 
