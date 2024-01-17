@@ -1,12 +1,17 @@
-<link href="style.css" rel="stylesheet"></link>
+<div align="center">
 
-## :man: Welcome to my github! 👋
+[![Hello, I'm Eduardo!](assets/header.gif)](https://github.com/dudaMeneses)
+Background GIF by [minimoss](https://www.tumblr.com/mini-moss/) on [Tumblr](https://www.tumblr.com/).
+
+</div>
 
 I am a software engineer living in 🇳🇱 and passionate about sports
 
 - 💻 currently working at KrampHub
 - 🌱 most recently learning Go and practicing more my software architecture skills
 - 📖 studying AI
+
+<div align="center">
 
 ### 🏆 My skills
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,spring,hibernate,aws,gcp,docker,kubernetes,terraform,git,maven,jenkins,grafana,prometheus,mysql,postgres,redis&perline=13)](https://skillicons.dev)
@@ -24,4 +29,4 @@ I am a software engineer living in 🇳🇱 and passionate about sports
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaMeneses&layout=compact&custom_title=Top%20Languages&theme=onedark" />
 </a>
 
-
+</div>
