@@ -9,7 +9,7 @@ I am a software engineer living in 🇳🇱 and passionate about sports
 - 📖 studying AI
 
 ### 🏆 My skills
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,spring,hibernate,aws,gcp,docker,kubernetes,terraform,git,maven,jenkins,grafana,prometheus,mysql,postgres,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,spring,hibernate,aws,gcp,docker,kubernetes,terraform,git,maven,jenkins,grafana,prometheus,mysql,postgres,redis&perline=13)](https://skillicons.dev)
 
 ### 📫 How to reach me
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dudaeee) &nbsp;
