@@ -1,5 +1,5 @@
 <img src="assets/header.gif" width="100%" alt="Header">
-Background GIF by <a href="https://www.tumblr.com/mini-moss/">minimoss</a> on <a href="https://www.tumblr.com/">Tumblr</a>
+Background GIF by <a href="https://www.twitter.com/1041uuu/">@1041uuu</a> on <a href="https://www.twitter.com/">X</a>
 
 ---
 
