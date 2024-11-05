@@ -5,9 +5,11 @@ Background GIF by <a href="https://www.twitter.com/1041uuu/">@1041uuu</a> on <a 
 
 I am a software engineer living in 🇳🇱 and passionate about sports
 
-- 💻 currently working at KrampHub
-- 🌱 most recently learning Go and practicing more my software architecture skills
+- 🌎 I'm based in the Netherlands
+- 💻 currently working at Kramp
+- 🧠 learning Go and improving software architecture skills
 - 📖 studying AI
+- 💪 fast context absorber
 
 <div align="center">
 
